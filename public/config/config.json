@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xe1BF7ddABA09C6646415084e6c55A3e23dc3CBF5",
-  "SCAN_LINK": "https://etherscan.io/0xe1BF7ddABA09C6646415084e6c55A3e23dc3CBF5",
+  "CONTRACT_ADDRESS": "0x0EA83B561C4b0D2DD9Cc20e5fd563E8Fa1284323",
+  "SCAN_LINK": "https://etherscan.io/0x0EA83B561C4b0D2DD9Cc20e5fd563E8Fa1284323",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "Hands Of Aurum",
   "SYMBOL": "HAND",
-  "MAX_SUPPLY": 2000,
+  "MAX_SUPPLY": 1111,
   "WEI_COST": 111000000000000000,
   "DISPLAY_COST": 0.11100000,
   "GAS_LIMIT": 140000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/infinethy",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hands-of-aurum",
   "SHOW_BACKGROUND": true
 }
