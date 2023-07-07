@@ -102,7 +102,7 @@ export const StyledLink = styled.a`
 function App() {
   const dispatch = useDispatch();
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
-  const endTime = new Date("2023-07-06T13:00:00Z");
+  const endTime = new Date("2023-07-07T12:00:00Z");
   const initialTimeRemaining = endTime - new Date();
   const [mintOpen, setMintOpen] = useState(initialTimeRemaining <= 1000);
   const blockchain = useSelector((state) => state.blockchain);
@@ -293,7 +293,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Public Mint:  July 06, 13:00 UTC
+              Public Mint:  July 07, 12:00 UTC
             </s.TextDescription>
             <s.SpacerLarge />
 
